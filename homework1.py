@@ -1,5 +1,5 @@
-from urllib.parse import urlparse, parse_qs, unquote
-
+from urllib.parse import urlparse, parse_qs, unquote 
+# 從 urllib.parse 模組中導入了三個函數 
 def output_search_query(url):
     # 解析 URL
     parsed_url = urlparse(url) 
