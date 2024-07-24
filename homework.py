@@ -11,5 +11,12 @@ url3="https://www.google.com/search?q=Teams+Microsoft&sca_esv=6a16a772d5a29aa1&r
 list3=url3.partition("search?q=")
 search3=list3[2].partition("&")
 print(search3[0].replace("+"," "))
-
-
+#Method 4 > 用位置試試看
+url4="https://www.google.com/search?q=Teams+Microsoft&sca_esv=6a16a772d5a29aa1&rlz=1C1CHBF_enUS849US849&sxsrf=ADLYWIIRGZw8d9wsyxXO_8MxfbVNHeZ85A%3A1721827924531&ei=VAKhZuyYILinvr0Ph560gAU&oq=teams+download&gs_lp=Egxnd3Mtd2l6LXNlcnAiDnRlYW1zIGRvd25sb2FkKgIIBTIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0joG1AAWABwAXgBkAEAmAEAoAEAqgEAuAEByAEAmAIBoAISmAMAiAYBkAYKkgcBMaAHAA&sclient=gws-wiz-serp"
+x4=(url4.find("="))+1
+x5=(url4.find("&"))
+print(url4[x4:x5].replace("+"," "))
+#同樣將位置的方法給 Youtube search
+url5="https://www.youtube.com/results?search_query=shu+yamino"
+para5= url5.find("=")+1 #找到等號後面的位置print
+print(url5[para5: ].replace("+"," "))
