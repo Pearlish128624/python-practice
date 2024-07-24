@@ -28,5 +28,6 @@ def output_search_query(url):
         #unquote 函數可將其他可能的編碼字符（例如 %20）轉換回原始字符
         # replace + 變成空格
     return search_query
-
-print(output_search_query("https://www.youtube.com/results?search_query=python"))  
+url = input("Input ")
+search_query = output_search_query(url)
+print("Output:", search_query) 
