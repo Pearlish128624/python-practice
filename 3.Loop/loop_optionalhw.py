@@ -14,3 +14,5 @@ def snake_with_corners(level):
             spacemid3=" "*((level-1)*2) #?
             print(space3+str(i)+(spacemid3+str(i))*2)
 snake_with_corners(5)
+
+#但是雖然似乎沒對齊..... 空格的計算有問題(不符合我一開始的公式，採用了以結果為主的公式)
