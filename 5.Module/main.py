@@ -1,3 +1,6 @@
+from module.ladder import pattern_ladder
+from module.tree import pattern_tree
+from module.letterv import pattern_V
 
 def main():
     pattern_type = input("Please input the pattern（ladder, tree, V）: ").lower() #確保變成小寫==才有作用
