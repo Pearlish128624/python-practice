@@ -1,3 +1,4 @@
+
 def main():
     pattern_type = input("Please input the pattern（ladder, tree, V）: ").lower() #確保變成小寫==才有作用
     level = int(input("please input the level: "))
