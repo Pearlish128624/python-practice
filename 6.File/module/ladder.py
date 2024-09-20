@@ -1,3 +1,6 @@
-def pattern_ladder(level):
+def pattern_ladder(level, wide=False):
     for i in range(1, level + 1):
-        print(str(i) * i)
+        if wide:
+            print(f"{i}-{str(i) * i}")
+        else:
+            print(str(i) * i)
