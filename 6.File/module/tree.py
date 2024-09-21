@@ -10,4 +10,4 @@ def pattern_tree(level):
         for i in range(level, 0, -1):  # 迴圈從 level 到 1, -1是步長，這樣數列才會倒序。
             spaces = " " * (level - 1)  # 每行需要的前置空格數量固定
             print(spaces + str(i))  # 樹幹
-        
+
