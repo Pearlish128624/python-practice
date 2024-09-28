@@ -1,8 +1,9 @@
 import os
 import sys
 from io import StringIO
+from typing import List, Tuple
 
-def pattern_V(level, wide=False):
+def pattern_V(level: int, wide: bool = False) -> None:
     for i in range(level, 0, -1):
         spaceout = " " * (level - i)  # 前面的空格
         
@@ -18,14 +19,14 @@ def pattern_V(level, wide=False):
             else:
                 print(f"{spaceout}{i}{spacein}{i}")
 
-def pattern_ladder(level, wide=False):
+def pattern_ladder(level: int, wide: bool = False) -> None:
     for i in range(1, level + 1):
         if wide:
             print(f"{i}-{str(i) * i}")
         else:
             print(str(i) * i)
 
-def pattern_tree(level, wide=False):
+def pattern_tree(level: int, wide: bool = False) -> None:
     # 樹葉部分
     for i in range(1, level + 1):
         spaces = " " * (level - i)
@@ -44,7 +45,7 @@ def pattern_tree(level, wide=False):
             spaces = " " * (level - 1)
             print(spaces + str(i))
 
-def read_orders(orders_dir):
+def read_orders(orders_dir: str) -> List[str]:
     orders = []
     for root, dirs, files in os.walk(orders_dir):
         for file in files:
@@ -53,7 +54,7 @@ def read_orders(orders_dir):
                     orders.extend(f.read().splitlines())
     return orders
 
-def process_order(order):
+def process_order(order: str) -> Tuple[str, int, bool]:
     words = order.lower().split()
     level = None
     pattern_type = None
@@ -72,7 +73,7 @@ def process_order(order):
 
     return pattern_type, level, wide
 
-def create_pattern(pattern_type, level, wide):
+def create_pattern(pattern_type: str, level: int, wide: bool) -> str:
     # 捕获打印输出
     old_stdout = sys.stdout
     sys.stdout = StringIO()
@@ -90,11 +91,11 @@ def create_pattern(pattern_type, level, wide):
     sys.stdout = old_stdout
     return pattern
 
-def save_pattern(pattern, filename):
+def save_pattern(pattern: str, filename: str) -> None:
     with open(filename, 'w') as f:
         f.write(pattern)
 
-def main():
+def main() -> None:
     # 使用绝对路径
     base_dir = os.path.dirname(os.path.abspath(__file__))
     orders_dir = os.path.join(base_dir, 'orders')
