@@ -1,0 +1,25 @@
+import random
+
+def test_read_question():
+    file_path = r"C:\Users\sunni\OneDrive1\OneDrive\Python\240701\python-practice\7.Practice1\source\1000.txt"
+    
+    with open(file_path, 'r', encoding='utf-8') as file:
+        words = file.readlines()
+    
+    # Print 3 random lines to check the format
+    print("Testing 3 random lines from the file:")
+    for _ in range(3):
+        chosen_line = random.choice(words).strip()
+        print(f"\nOriginal line: {chosen_line}")
+        print(f"Split parts: {chosen_line.split()}")  # Let's see how it's actually splitting
+        
+        # Try different splitting methods
+        parts_tab = chosen_line.split('\t')
+        parts_space = chosen_line.split()
+        
+        print(f"Split by tab: {parts_tab}")
+        print(f"Split by space: {parts_space}")
+
+# Run the test
+if __name__ == "__main__":
+    test_read_question()
