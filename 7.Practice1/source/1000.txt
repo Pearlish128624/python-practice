@@ -1,0 +1,971 @@
+1.    abroad              	[副]在國外                            
+2.    across              	[介]橫越;穿過                          
+3.    act                	[動]扮演;[名]行動,法案                
+4.    action              	[名]動作                              
+5.    actor              	[名]男演員                            
+6.    actress            	[名]女演員                            
+7.    ahead              	[副]在前;向前;預先;事前                
+8.    ant                	[名]螞蟻                              
+9.    attack              	[動]進攻;襲擊;[名]攻擊                
+10.  badminton          	[名]羽毛球                            
+11.  bake                	[動]烘;烤                              
+12.  balcony            	[名]陽臺                              
+13.  barbecue            	[名]烤肉                              
+14.  base                	[名]基;底;基部                        
+15.  bat                	[名]球棒;蝙蝠                          
+16.  bean                	[名]豆莢;豆子                          
+17.  bench              	[名]長凳;長椅                          
+18.  blanket            	[名]毯子                              
+19.  boil                	[動](水等)沸騰;開;滾                  
+20.  bow                	[動]鞠躬;[名]弓                        
+21.  bug                	[名]小蟲                              
+22.  bun                	[名]小圓麵包                          
+23.  butterfly          	[名]蝴蝶                              
+24.  cage                	[名]鳥籠;獸籠                          
+25.  candle              	[名]蠟燭                              
+26.  castle              	[名]城堡                              
+27.  centimeter          	[名]公分                              
+28.  chess              	[名]西洋棋                            
+29.  choose              	[動]選擇;挑選                          
+30.  clap                	[動]拍(手);鼓(掌)                      
+31.  clerk              	[名]店員;辦事員;職員                  
+32.  cola                	[名]可樂                              
+33.  comb                	[動]用梳子梳理;[名]梳子                
+34.  corner              	[名]角落                              
+35.  course              	[名]課程;科目                          
+36.  deal                	[動]處理;對付;對待[(+with)];[名]交易  
+37.  dentist            	[名]牙醫                              
+38.  dodge ball          	[名]躲避球遊戲                        
+39.  dot                	[名]點;小圓點                          
+40.  dragon              	[名]龍                                
+41.  drawer              	[名]抽屜                              
+42.  drum                	[名]鼓                                
+43.  duck                	[名]鴨                                
+44.  dumpling            	[名]餃子                              
+45.  Easter              	[名]復活節                            
+46.  engineer            	[名]工程師                            
+47.  envelope            	[名]信封                              
+48.  fail                	[動]失敗;不及格                        
+49.  far                	[形]遠的                              
+50.  feed                	[動]吃;餵養                            
+51.  fever              	[名]發燒                              
+52.  fight              	[動]打架;作戰;[名]打架;戰鬥            
+53.  flute              	[名]橫笛                              
+54.  fox                	[名]狐狸                              
+55.  French fries        	[名]薯條                              
+56.  frisbee            	[名](投擲遊戲用的)飛碟;飛盤            
+57.  frog                	[名]青蛙                              
+58.  fry                	[動]油炸;[名]炸薯條                    
+59.  gate                	[名]柵門;登機門                        
+60.  ghost              	[名]鬼                                
+61.  giant              	[形]巨大的;[名]巨人                    
+62.  glasses            	[名]眼鏡                              
+63.  glue                	[動]黏住;緊附;[名]膠;膠水              
+64.  goose                	[名]鵝                                
+65.  gram                	[名]公克                              
+66.  grape              	[名]葡萄                              
+67.  guava              	[名]番石榴                            
+68.  guitar              	[名]吉他                              
+69.  guy                	[名]傢伙;人                            
+70.  gym                	[名]體育館;體育;體操                  
+71.  Halloween          	[名]萬聖節                            
+72.  hang                	[動]把…掛起;吊                        
+73.  hen                	[名]母雞                              
+74.  hey                	[感歎詞]嗨;喂                          
+75.  hike                	[動]徒步旅行;[名]徒步旅行              
+76.  hippo              	[名]河馬                              
+77.  honey              	[名]蜂蜜;心愛的人                      
+78.  hop                	[動]單足跳                            
+79.  housewife          	[名]家庭主婦                          
+80.  hunt                	[動]追獵                              
+81.  inch                	[名]英吋                              
+82.  insect              	[名]昆蟲                              
+83.  interview          	[動]面談;採訪;[名]面談;採訪            
+84.  invite              	[動]邀請                              
+85.  kangaroo            	[名]袋鼠                              
+86.  koala              	[名]澳洲產無尾熊                      
+87.  lantern            	[名]燈籠                              
+88.  lawyer              	[名]律師                              
+89.  lovely              	[形]動人的                            
+90.  mad                	[形]發火;發瘋;發狂的                  
+91.  marker              	[名]標誌;白板筆;馬克筆                
+92.  mask                	[名]面具                              
+93.  mat                	[名]蓆子;墊子                          
+94.  mop                	[動]拖洗;擦去;[名]拖把                
+95.  MRT                	[縮]大眾捷運系統                      
+96.  mud                	[名]泥巴                              
+97.  nail                	[名]釘子;指甲                          
+98.  nature              	[名]自然                              
+99.  neighbor            	[名]鄰居                              
+100.newspaper          	[名]報紙                              
+101.note                	[動]注意;記下;[名]筆記;音符;記錄      
+102.ox                  	[名]公牛                                
+103.papaya              	[名]木瓜                              
+104.paste              	[動]黏貼;[名]漿糊                      
+105.peach              	[名]桃子                              
+106.pear                	[名]梨子                              
+107.photo              	[名]相片                              
+108.pin                	[名]大頭針;胸針                        
+109.pipe                	[名]管子                              
+110.planet              	[名]行星                                
+111.plant              	[動]栽種;播種;[名]植物,農作物;工廠    
+112.plate              	[名]盤;碟                              
+113.pleasure            	[名]愉快                              
+114.pocket              	[名]口袋                              
+115.pond                	[名]池塘                              
+116.pool                	[名]水池;美式撞球                      
+117.pot                	[名]罐;鍋                              
+118.power              	[名]權力;動力                          
+119.pray                	[動]禱告                              
+120.prince              	[名]王子                              
+121.princess            	[名]公主                              
+122.prize              	[名]獎品                              
+123.pumpkin            	[名]南瓜                                
+124.puppy              	[名]小狗                              
+125.quarter            	[名]1/4;美金25分;15分鐘                
+126.quiz                	[名]小考                              
+127.race                	[動]與...賽跑;[名]競賽;(生物的)種類    
+128.raise              	[動]舉起;提高                          
+129.rat                	[名]老鼠                              
+130.recorder            	[名]錄影機;錄音機                      
+131.reporter            	[名]記者                              
+132.rise                	[動]起身;升起                          
+133.robot              	[名]機器人                            
+134.rock                	[動]搖動;[名]岩石;搖滾樂              
+135.roll                	[動]捲;滾                              
+136.rope                	[名]粗繩                              
+137.row                	[動]划船;[名]行列                      
+138.sail                	[動]航行                              
+139.salesman            	[名]售貨員                            
+140.scared              	[形]害怕的                              
+141.science            	[名]科學                              
+142.scooter            	[名]小輪摩托車                        
+143.screen              	[名]屏;銀幕          
+144.secretary          	[名]秘書                              
+145.seed                	[名]種子                              
+146.seesaw              	[名]蹺蹺板                            
+147.shake              	[動]搖動;握(手);[名]搖動;奶昔          
+148.shark              	[名]鯊魚                              
+149.sharp              	[形]尖銳的;敏銳的                      
+150.shine              	[動]照耀                              
+151.shorts              	[名]短褲                              
+152.shout              	[動]呼叫                              
+153.sight              	[名]視力;景象                          
+154.sign                	[動]簽字;做信號;[名]記號              
+155.skate              	[動]溜冰;[名]冰鞋                      
+156.slide              	[動]滑壘滑動;[名]滑梯;土崩            
+157.slim                	[形]細長的;微小的                      
+158.snowman            	[名]雪人                              
+159.snowy              	[形]似雪的;多雪的                      
+160.soccer              	[名]足球                              
+161.soldier            	[名]軍人                              
+162.sore                	[形]疼痛的                            
+163.spaghetti          	[名]義大利麵條                        
+164.spider              	[名]蜘蛛                              
+165.stairs              	[名]樓梯                              
+166.stamp              	[動]頓足;蓋印;[名]郵票;印章            
+167.straight            	[形]直的                              
+168.straw              	[名]稻草;吸管                          
+169.strawberry          	[名]草莓                              
+170.subject            	[名]主題;學科                          
+171.surf                	[動]衝浪;在網路或頻道上搜索資料;[名]海浪
+172.swing              	[動]搖擺;揮動;[名]鞦韆;搖擺音樂        
+173.tail                	[名]尾巴                              
+174.temple              	[名]廟宇;神殿                          
+175.terrible            	[形]可怕的                            
+176.thick              	[形]粗的;厚的                          
+177.throat              	[名]喉嚨                              
+178.throw              	[動]投;拋                              
+179.tidy                	[形]整潔的;[動]使整潔                  
+180.tie                	[動]綁;繫;[名]結;領帶;平手            
+181.toast              	[動]烤;乾杯;[名]烤麵包片              
+182.toe                	[名]腳趾                              
+183.tool                	[名]工具                                
+184.top                	[形]最高的;[名]頂部;陀螺              
+185.total              	[形]總的;[名]總額                      
+186.trash              	[名]垃圾                              
+187.treat              	[動]對待;治療;[名]款待                
+188.trick              	[動]欺騙;[名]詭計;戲法;惡作劇          
+189.T-shirt            	[名]T恤            
+190.tub                	[名]浴缸                              
+191.turkey              	[名]火雞                              
+192.turtle              	[名]烏龜                                
+193.twice              	[副]兩次                              
+194.type                	[動]打字;[名]類型                      
+195.vest                	[名]背心                              
+196.violin              	[名]小提琴                              
+197.wallet              	[名]皮夾                              
+198.watermelon          	[名]西瓜                              
+199.wave                	[動]揮動;[名]波浪                      
+200.whale              	[名]鯨魚                              
+201.yard                	[名]庭院;碼(3英呎)                    
+202.yummy              	[形]好吃的                            
+203.zebra              	[名]斑馬                              
+204.zero                	[形]零的;[名]零  
+205.absent              	[形]缺席的,不在場的                    
+206.accept              	[動]接受                              
+207.accident            	[名]事故;災禍                          
+208.active              	[形]活躍的                            
+209.activity            	[名]活動                                
+210.add                	[動]添加                              
+211.address            	[名]地址;演說                          
+212.admire              	[動]欽佩;欣賞                          
+213.adult              	[名]成年人                            
+214.advertisement      	[名]廣告                              
+215.advice              	[名]忠告                              
+216.affect              	[動]影響                              
+217.against            	[介]反對，違反                        
+218.aim                	[動]瞄準,對準;[名]目標,目的            
+219.air conditioner    	[名]冷氣機                            
+220.airlines            	[名]航線,航空公司                      
+221.alarm              	[名]警鈴;警報;驚慌                    
+222.album              	[名]相簿;集郵簿;唱片集                  
+223.alike              	[形]相似的                            
+224.alive              	[形]活著的;活躍的                      
+225.allow              	[動]允許                              
+226.alone              	[形]單獨的;孤單的                      
+227.alphabet            	[名]字母                              
+228.altogether          	[副]完全地;總共                        
+229.ambulance          	[名]救護車                            
+230.among              	[介]在...之中                          
+231.amount              	[名]總數                              
+232.ancient            	[形]古代的                            
+233.angel              	[名]天使                              
+234.anger              	[名]生氣                              
+235.ankle              	[名]腳踝                              
+236.anywhere            	[副]任何地方                          
+237.apologize          	[動]道歉                              
+238.appreciate          	[動]感謝;賞識                          
+239.area                	[名]地區;面積                          
+240.argue              	[動]爭論                              
+241.armchair            	[名]扶手椅子                          
+242.army                	[名]軍隊;大群                          
+243.arrange            	[動]排列;整理                          
+244.artist              	[名]藝術家                            
+245.asleep              	[形]睡著的                            
+246.assistant          	[名]助手                              
+247.assume              	[動]假定                              
+248.attention          	[名]注意;專心                          
+249.available          	[形]可用的                            
+250.avoid              	[動]避免                              
+251.baby sitter        	[名]替人看小孩者                      
+252.backpack            	[名]背包                              
+253.backward            	[形]向後的;落後的;[副]向後地;落後地    
+254.balloon            	[名]汽球                              
+255.barber              	[名]男理髮師                          
+256.bark                	[動]狗叫;[名]吠聲                      
+257.basement            	[名]地下室                            
+258.basic              	[形]基本的                            
+259.bathe              	[動]洗澡                              
+260.beard              	[名]鬍子                                
+261.beat                	[動]擊敗;敲擊                          
+262.beauty              	[名]美貌;美人                          
+263.beer                	[名]啤酒                              
+264.beginner            	[名]新手                              
+265.behave              	[動]舉動;守規矩                        
+266.besides            	[副]並且;[介]除...之外                
+267.beyond              	[副]在更遠處;[介]越出;晚於;在...那一邊
+268.bill                	[動]記入帳;[名]帳單;鈔票              
+269.biology            	[名]生物學                            
+270.bitter              	[形]苦的;嚴酷的                        
+271.blame              	[動]歸咎於                            
+272.blank              	[名]空白                              
+273.bless              	[動]祝福;保佑                          
+274.blood              	[名]血                                
+275.blouse              	[名]女裝短上衣                        
+276.board              	[動]上車;上船;[名]木板;;車上;船上  
+277.bomb                	[名]炸彈                              
+278.bone                	[名]骨頭                              
+279.bookcase            	[名]書架                              
+280.bother              	[動]煩擾                              
+281.bowling            	[名]保齡球戲                          
+282.branch              	[名]樹枝;支部                          
+283.brave              	[形]勇敢的                            
+284.brick              	[名]磚塊                              
+285.broad              	[形]寬廣的                            
+286.broadcast          	[動]廣播                                
+287.brunch              	[名]早午餐                            
+288.bucket              	[名]水桶                              
+289.buffet              	[名]自助餐                            
+290.bundle              	[名]捆;大量                            
+291.burger              	[名]漢堡牛肉餅                        
+292.burst              	[動]爆開;闖入                          
+293.button              	[動]扣鈕扣;[名]鈕扣                    
+294.cabbage            	[名]包心菜                            
+295.cable              	[名]纜索;有線電視                      
+296.cafeteria          	[名]自助餐館                          
+297.calendar            	[名]日曆;月曆;行事曆                  
+298.calm                	[形]寧靜的;[動]變安靜                  
+299.campus              	[名]校園                              
+300.cancel              	[動]取消                              
+301.cancer              	[名]癌症                              
+302.captain            	[名]隊長;機長;艦長                    
+303.careless            	[形]粗心的                              
+304.carpet              	[名]地毯                              
+305.carrot              	[名]胡蘿蔔                            
+306.cartoon            	[名]卡通                              
+307.cash                	[動]兌現;[名]現款                      
+308.cause              	[名]原因;理由                          
+309.ceiling            	[名]天花板                            
+310.central            	[形]中央的                            
+311.century            	[名]一世紀                            
+312.cereal              	[名]麥片                              
+313.certain            	[形]肯定的                            
+314.channel            	[名]管道;頻道                          
+315.character          	[名]特性;角色;(中文)字                
+316.charge              	[動]索價;充電;[名]費用;充電            
+317.chart              	[名]圖表                              
+318.chase              	[動]追                                
+319.chemistry          	[名]化學                              
+320.childhood          	[名]幼時                              
+321.childish            	[形]幼稚的                            
+322.chin                	[名]下巴                              
+323.choice              	[名]選擇                              
+324.chubby              	[形]圓胖的                            
+325.classical          	[形]古典的                            
+326.clever              	[形]聰明伶俐的                        
+327.climate            	[名]氣候                              
+328.closet              	[名]壁櫥;衣櫥                          
+329.cloud              	[名]雲                                
+330.coach              	[名]教練                              
+331.coast              	[名]海岸                              
+332.cockroach          	[名]蟑螂                              
+333.coin                	[名]硬幣                              
+334.college            	[名]學院;大學                          
+335.colorful            	[形]富有色彩的                        
+336.command            	[名]命令                              
+337.comment              	[動]評論;[名]評論                      
+338.company            	[名]公司                              
+339.compare            	[動]比較                              
+340.complain            	[動]抱怨                              
+341.complete            	[形]完整的；徹底的;[動]完成            
+342.concern            	[動]使擔心;[名]關懷                    
+343.confident          	[形]有信心的                          
+344.confuse            	[動]使迷惑                            
+345.congratulation      	[名]祝賀                              
+346.consider            	[動]考慮                              
+347.considerate        	[形]體諒的                            
+348.contact lens        	[名]隱形眼鏡                          
+349.continue            	[動]繼續                                
+350.contract            	[名]和約                              
+351.control            	[動]控制                              
+352.convenience store  	[名]便利商店                          
+353.conversation        	[名]會話                              
+354.corn                	[名]玉米                              
+355.cotton              	[名]棉花                              
+356.cough              	[動]咳嗽;[名]咳嗽                      
+357.couple              	[名]一對                              
+358.courage              	[名]勇氣                              
+359.court              	[名]法庭；(網球等的)場地              
+360.cowboy              	[名]牛仔                              
+361.crab                	[名]螃蟹                              
+362.crayon              	[名]蠟筆                                
+363.cream              	[名]奶油                              
+364.create              	[動]創造                              
+365.credit card        	[名]信用卡                            
+366.crime              	[名]犯罪                              
+367.crowd              	[名]群眾                              
+368.crowded            	[形]擁擠的                            
+369.cruel              	[形]殘酷的                            
+370.culture            	[名]文化                              
+371.cure                	[動]治癒;[名]痊癒                      
+372.curious            	[形]好奇的                            
+373.current            	[形]現行的;[名]水流;電流              
+374.curtain            	[名]窗簾;(舞臺上的)幕                  
+375.curve              	[名]曲線                              
+376.custom              	[名]習俗                              
+377.customer            	[名]顧客                              
+378.daily              	[形]每日的;[副]每日                    
+379.damage              	[動]損害;[名]損害                      
+380.danger              	[名]危險                              
+381.dawn                	[動]破曉,頓悟;[名]黎明                
+382.deaf                	[形]聾的                              
+383.death              	[名]死亡                                
+384.debate              	[動]辯論;[名]辯論                      
+385.decision            	[名]決定                              
+386.decorate            	[動]佈置                              
+387.decrease            	[動]減少                              
+388.deep                	[形]深的                              
+389.deer                	[名]鹿                                
+390.degree              	[名]程度                              
+391.deliver            	[動]遞送                                
+392.department          	[名]部門                              
+393.depend              	[動]依賴                              
+394.describe            	[動]描述                              
+395.desert              	[名]沙漠;(常複數)賞罰;(尤指)懲罰
+396.design              	[動]設計;[名]圖案;設計                
+397.desire              	[名]渴望                              
+398.dessert            	[名]餐後甜點                          
+399.detect              	[動]查出                              
+400.develop            	[動]發展                                
+401.dial                	[動]撥(電話號碼)                      
+402.diamond            	[名]鑽石                              
+403.diary              	[名]日記                              
+404.diet                	[動]節食;[名]飲食;特種飲食              
+405.difference          	[名]差別                              
+406.difficulty          	[名]困難                              
+407.diligent            	[形]勤勉的                            
+408.dinosaur            	[名]恐龍                              
+409.diplomat            	[名]外交官                            
+410.direct              	[形]直接的;[動]指引                    
+411.direction          	[名]方向                              
+412.disappear          	[動]消失                              
+413.discover            	[動]發現                              
+414.discuss            	[動]討論                              
+415.discussion          	[名]討論                              
+416.dishonest          	[形]不誠實的                          
+417.distance            	[名]距離                              
+418.divide              	[動]分開;除以                          
+419.dizzy              	[形]暈眩的                            
+420.dolphin            	[名]海豚                              
+421.donkey              	[名]驢子                              
+422.double              	[形]雙重的;[動]加倍;[名]兩倍          
+423.doubt              	[動]懷疑;[名]懷疑                      
+424.doughnut            	[名]油炸圈餅                          
+425.downstairs          	[形]樓下的;[副]樓下地;[名]樓下        
+426.downtown            	;[名]城市商業區
+427.drama              	[名]戲劇                              
+428.dresser            	[名]衣櫃                              
+429.drugstore          	[名](常兼售雜貨的)藥房                
+430.dumb                	[形]愚笨的;啞的                        
+431.duty                	[名]義務;關稅;責任                    
+432.eagle              	[名]老鷹                              
+433.earn                	[動]賺到                              
+434.earrings            	[名]耳環                              
+435.ease                	[動]減輕                              
+436.edge                	[名]邊緣;優勢                          
+437.education          	[名]教育                              
+438.effort              	[名]努力                              
+439.elder              	[形]年紀較長的;[名]長輩                
+440.elect              	[動]選出                              
+441.electric            	[形]電的                              
+442.embarrass          	[動]使困窘                            
+443.emotion            	[名]情緒                              
+444.emphasize          	[動]強調                              
+445.employ              	[動]僱用                              
+446.empty              	[形]空的                              
+447.enemy              	[名]敵人                              
+448.energetic          	[形]精力充沛的                        
+449.energy              	[名]精力;能量                          
+450.engine              	[名]引擎                              
+451.entrance            	[名]入口                              
+452.environment        	[名]環境                              
+453.envy                	[動]羨慕;嫉妒                          
+454.equal              	[形]相等的;平等的                      
+455.error              	[名]錯誤                              
+456.especially          	[副]特別地                            
+457.event              	[名]事件                              
+458.everywhere          	[副]處處                              
+459.evil                	[形]邪惡的                            
+460.exam                	[名]考試                              
+461.excite              	[動]使興奮;使激動                      
+462.exist              	[動]存在                              
+463.exit                	[名]出口                              
+464.expect              	[動]期待                              
+465.explain            	[動]解釋                              
+466.express            	[動]表示                              
+467.extra              	[形]額外的;[名]附加的人物或錢;號外    
+468.fair                	[形]公平的;美好的                      
+469.false              	[形]假的                              
+470.fancy              	[形]花俏的;特級的                      
+471.fantastic          	[形]奇妙的                            
+472.fashionable        	[形]時尚的                              
+473.faucet              	[名]水龍頭                            
+474.fault              	[名]過錯                              
+475.fear                	[動]畏懼;[名]懼怕                      
+476.fee                	[名]費用                              
+477.female              	[形]女性的;[名]雌性動物                
+478.fence              	[名]柵欄;籬笆                          
+479.film                	[名]膠捲;影片                          
+480.final              	[形]最終的                            
+481.fit                	[動]合身;適合                          
+482.flag                	[名]旗子                              
+483.flashlight          	[名]手電筒                            
+484.flat tire          	[名]爆胎                              
+485.flight              	[名]飛行                                
+486.flour              	[名]麵粉                              
+487.flu                	[名]流行性感冒                        
+488.focus              	[動]集中;[名]焦點                      
+489.fog                	[名]霧                                
+490.foggy              	[形]有霧的                            
+491.fool                	[動]愚弄;[名]呆子                      
+492.foolish            	[形]愚蠢的                            
+493.football            	[名]美式足球                          
+494.forest              	[名]森林                              
+495.forgive            	[動]原諒                              
+496.form                	[動]形成;[名]形態;表格                
+497.formal              	[形]正式的                            
+498.former              	[形]前者                              
+499.forward            	[形]前面的;[動]轉遞;[副]向前地        
+500.frank              	[形]坦白的                            
+501.freedom            	[名]自由                              
+502.freezer            	[名]冰箱的冷凍部;冷凍箱                
+503.freezing            	[形]冰凍的;極冷的                      
+504.friendship          	[名]友誼                              
+505.frighten            	[動]害怕;吃驚                          
+506.furniture          	[名]傢俱                                
+507.gain                	[動]得到;增進                          
+508.garage              	[名]車庫                              
+509.gather              	[動]集合                              
+510.general            	[形]普遍的;[名]將軍                    
+511.generous            	[形]慷慨的                            
+512.genius              	[名]天才                              
+513.gentle              	[形]溫柔的                            
+514.gentleman          	[名]紳士                              
+515.geography          	[名]地理                              
+516.gesture            	[名]姿勢;表示                          
+517.goal                	[名]目標;球門                          
+518.god                	[名]上帝                              
+519.gold                	[形]金製的;[名]黃金                    
+520.golden              	[形]金色的                            
+521.golf                	[名]高爾夫球                          
+522.government          	[名]政府                              
+523.granddaughter      	[名]孫女;外孫女                        
+524.grandson            	[名]孫子;外孫                          
+525.greedy              	[形]貪心的                            
+526.greet              	[動]問候;致敬                          
+527.guard              	[動]保衛;看守;[名]警衛                
+528.guest              	[名]客人                              
+529.guide              	[動]引導;[名]嚮導                      
+530.gun                	[名]槍                                
+531.haircut            	[名]理髮                              
+532.hall                	[名]大廳;講堂                          
+533.hammer              	[動]敲打;[名]鎚                        
+534.handkerchief        	[名]手帕                              
+535.handle              	[動]處理;搬弄;[名]把手                
+536.hanger              	[名]衣架                              
+537.heater              	[名]暖氣機                            
+538.height              	[名]高度                              
+539.helicopter          	[名]直昇機                            
+540.hero                	[名]英雄                              
+541.highway            	[名]公路;幹道                          
+542.hip                	[名]臀部                              
+543.hire                	[動]雇用                              
+544.hole                	[名]洞                                  
+545.homesick            	[形]想家的                            
+546.honesty            	[名]誠實                              
+547.horrible            	[形]可怕的                            
+548.host                	[名]主人                                
+549.housework          	[名]家務                              
+550.hug                	[動]摟抱                              
+551.human              	[形]人類的;[名]人                      
+552.humble              	[形]謙恭的;微賤的                      
+553.humid                	[形]潮濕的                            
+554.humor              	[名]幽默                              
+555.humorous            	[形]幽默的                            
+556.hunger              	[名]饑餓                              
+557.hunter              	[名]獵人                              
+558.ignore              	[動]不理睬                            
+559.ill                	[形]生病的;[名]不幸;禍害              
+560.imagine            	[動]想像                              
+561.impolite            	[形]沒禮貌的                            
+562.importance          	[名]重要性                            
+563.impossible          	[形]不可能的                          
+564.improve            	[動]改善                              
+565.include            	[動]包含                              
+566.income              	[名]收入                              
+567.increase            	[動]增加                              
+568.independent        	[形]獨立的                            
+569.indicate            	[動]指出                                
+570.influence          	[名]影響                              
+571.information        	[名]資訊                              
+572.ink                	[名]墨水                              
+573.insist              	[動]堅持                              
+574.inspire            	[動]鼓舞                              
+575.instant            	[形]即時的;[名]瞬間                    
+576.instrument          	[名]儀器                              
+577.intelligent        	[形]有才智的                          
+578.international      	[形]國際的                            
+579.interrupt          	[動]打斷(談話和工作等)                
+580.introduce          	[動]介紹                              
+581.invent              	[動]發明                              
+582.invitation          	[名]邀請                              
+583.iron                	[動]熨燙;[名]鐵;熨斗                  
+584.jam                	[動]擠;夾傷;[名]果醬;擁塞              
+585.jazz                	[名]爵士樂                            
+586.jealous            	[形]嫉妒的                            
+587.jeep                	[名]吉普車                            
+588.joke                	[動]開玩笑;[名]笑話                    
+589.journalist          	[名]新聞工作者                        
+590.judge              	[動]判斷;審判;[名]法官                
+591.ketchup            	[名]番茄醬                            
+592.kilometer          	[名]公里                              
+593.kindergarten        	[名]幼稚園                            
+594.kingdom            	[名]王國                              
+595.kitten              	[名]小貓                              
+596.lack                	[動]缺乏;[名]缺乏                      
+597.lady                	[名]淑女                              
+598.lamb                	[名]小羊                              
+599.latter              	[形]後者                              
+600.law                	[名]法律                              
+601.lay                	[動]置放;產卵                          
+602.leaf                	[名]樹葉                              
+603.level              	[名]水平線                              
+604.lick                	[動]舔                                
+605.lift                	[動]舉起                              
+606.lightning          	[名]閃電                              
+607.likely              	[形]有可能的                          
+608.limit              	[動]限定;[名]限度                      
+609.link                	[動]聯繫;[名]環節                      
+610.liquid              	[名]液體                              
+611.liter              	[名]公升                              
+612.loaf                	[名]一條(麵包)                        
+613.local              	[形]本地的;[名]當地居民                
+614.lock                	[動]鎖住;[名]鎖                        
+615.locker              	[名](公共場所的)衣物櫃                
+616.loser              	[名]輸家                              
+617.magazine            	[名]雜誌                              
+618.magician            	[名]魔術師                            
+619.main                	[形]最主要的                          
+620.major              	[形]較多的;主要的;[名]主修            
+621.male                	[形]男性的;[名]雄性動物                
+622.mall                	[名]大規模購物中心                    
+623.manager            	[名]經理                              
+624.mango              	[名]芒果                              
+625.manner              	[名]舉止;態度                          
+626.marry              	[動]結婚                              
+627.marvelous          	[形]了不起的                          
+628.master              	[動]精通;[名]主人                      
+629.match                	[動]相配                              
+630.maximum            	[形]最大限度的;[名]最高極限            
+631.measure            	[動]計量;[名]尺寸                      
+632.mechanic            	[名]技工                              
+633.member              	[名]會員                                
+634.memory              	[名]記憶                              
+635.men's room          	[名]男廁                              
+636.message            	[名]消息;音信                          
+637.metal              	[名]金屬                                
+638.meter              	[名]公尺;計量器                        
+639.method              	[名]方法                              
+640.microwave          	[名]微波爐                            
+641.middle              	[形]中間的;[名]中央                  
+642.midnight            	[名]午夜                              
+643.minor              	[形]較小的;較次要的;[名]未成年者;副科  
+644.minus              	[介]減;[名]負號                        
+645.mirror              	[名]鏡子                              
+646.mix                	[動]混合                              
+647.model              	[名]模型;模特兒                        
+648.monster            	[名]怪物                              
+649.mosquito            	[名]蚊子                              
+650.motion              	[名]移動                              
+651.movement            	[名]動作                              
+652.musician            	[名]音樂家                            
+653.napkin              	[名]餐巾                              
+654.narrow              	[形]窄的                                
+655.nation              	[名]國家                              
+656.natural            	[形]天然的                            
+657.naughty            	[形]頑皮的                            
+658.necessary          	[形]需要的                            
+659.necklace            	[名]項鍊                              
+660.needle              	[名]針                                
+661.negative            	[形]否定的;負面的                      
+662.neither            	[形]兩者都不;[副]也不;[連]也不;[代]兩者都不
+663.nephew              	[名]侄子;外甥                          
+664.nervous            	[形]緊張的                            
+665.nest                	[名]巢                                
+666.net                	[名]網子                              
+667.niece              	[名]侄女;外甥女                        
+668.noisy              	[形]喧鬧的                            
+669.none                	[代]毫無;無一(人或物)                  
+670.nor                	[連]亦不                              
+671.novel              	[名]小說                              
+672.nut                	[名]核果                              
+673.obey                	[動]服從                              
+674.object              	[動]反對;[名]物件                      
+675.ocean              	[名]海洋                                
+676.offer              	[動]提供                              
+677.oneself            	[代]自己                              
+678.onion              	[名]洋蔥                              
+679.operation          	[名]手術;操作                          
+680.opinion            	[名]意見                              
+681.ordinary            	[形]平常的                            
+682.oven                	[名]烤箱                              
+683.overseas            	[形]國外的;[副]在海外                  
+684.overweight          	[形]超重的;過重的                      
+685.owner              	[名]物主                              
+686.pain                	[名]疼痛;痛苦                          
+687.painful            	[形]痛的                              
+688.painter            	[名]油漆匠;畫家                        
+689.pajamas            	[名]睡衣                              
+690.pale                	[形]蒼白的;黯淡的                      
+691.pan                	[名]平鍋                              
+692.panda              	[名]貓熊                              
+693.pardon              	[動]寬恕                              
+694.parking lot        	[名]停車場                            
+695.parrot              	[名]鸚鵡                              
+696.partner            	[名]夥伴                                
+697.passenger          	[名]乘客                              
+698.path                	[名]小徑;路線                          
+699.patient            	[名]病人                              
+700.pattern            	[名]圖案;模式                        
+701.pause              	[動]中止                              
+702.peace              	[名]和平                              
+703.peaceful            	[形]寧靜的;和平的                      
+704.pepper              	[名]胡椒;辣椒                          
+705.perfect            	[形]完美的                            
+706.period              	[名]一段時間;一堂課                    
+707.personal            	[形]個人的                            
+708.physics            	[名]物理                              
+709.pigeon              	[名]鴿子                              
+710.pile                	[動]堆起;[名]一堆                      
+711.pillow              	[名]枕頭                              
+712.pineapple          	[名]鳳梨                              
+713.plain              	[形]簡樸的;清楚的;[名]平原            
+714.platform            	[名]月台;平台                          
+715.pleasant            	[形]愉快的;美好的                      
+716.pleased            	[形]欣喜的                            
+717.plus                	[介]加;[名]正號                        
+718.poem                	[名]詩                                
+719.poison              	[名]毒物                              
+720.pollute            	[動]污染                              
+721.pollution          	[名]污染                              
+722.pop music          	[名]流行音樂                          
+723.population          	[名]人口                              
+724.position            	[名]位置                              
+725.positive            	[形]正面的;確信的                      
+726.potato            	[名]馬鈴薯                            
+727.powder              	[名]粉                                
+728.praise              	[動]讚美                              
+729.precious            	[形]寶貴的                            
+730.president          	[名]校長;總統                          
+731.pressure            	[名]壓力                              
+732.priest              	[名]牧師;神父                          
+733.primary            	[形]主要的;初級的                      
+734.principal          	[名](中小學)校長                      
+735.principle          	[名]主義;真諦                          
+736.print              	[動]印刷;用印刷體寫                    
+737.printer            	[名]印表機;印刷業者                    
+738.private            	[形]私人的                            
+739.produce            	[動]製造;出產;[名]農產品              
+740.production          	[名]製造;生產                          
+741.professor          	[名]教授                              
+742.progress            	[名]進步                              
+743.project            	[名]計畫                              
+744.promise            	[動]答應                              
+745.pronounce          	[動]發...音                            
+746.protect            	[動]保護                              
+747.provide            	[動]供應                                
+748.punish              	[動]處罰                              
+749.purpose            	[名]目的                              
+750.purse              	[名]錢包                              
+751.puzzle              	[動]使迷惑;[名]謎                      
+752.quit                	[動]放棄;離職                          
+753.railroad            	[名]鐵路                              
+754.raincoat            	[名]雨衣                              
+755.rare                	[形]罕見的                              
+756.rather              	[副]寧可;頗為                          
+757.reach              	[動]到;伸出                            
+758.realize            	[動]認知;實現                          
+759.reason              	[名]理由                              
+760.receive            	[動]收到                              
+761.record              	[動]記錄;錄音;[名]記錄;唱片            
+762.recover            	[動]尋回;恢復                          
+763.rectangle          	[名]長方形                            
+764.recycle            	[動]回收                              
+765.refuse              	[動]拒絕                              
+766.regret              	[動]懊悔                              
+767.regular            	[形]通常的                            
+768.reject              	[動]拒絕                                
+769.relative            	[形]有關的;相對的;[名]親戚            
+770.remind              	[動]提醒                              
+771.rent                	[動]租                                
+772.repair              	[動]修理;[名]修理                      
+773.report              	[名]報告                              
+774.respect            	[動]尊敬;[名]尊敬                      
+775.responsible        	[形]負責任的                          
+776.result              	[名]結果                              
+777.return              	[動]回;還                              
+778.review              	[動]溫習;回顧;[名]復習                
+779.revise              	[動]校訂;更改                          
+780.rob                	[動]搶劫                              
+781.role                	[名]角色                              
+782.roof                	[名]屋頂                              
+783.root                	[名]根                                
+784.rub                	[動]磨擦                              
+785.rubber              	[名]橡膠                              
+786.rude                	[形]無禮的                            
+787.ruin                	[動]毀滅                              
+788.rush                	[動]催促;急送                          
+789.safety              	[名]安全                              
+790.sailor              	[名]水手                              
+791.sample              	[名]樣品                              
+792.sand                	[名]沙                                
+793.satisfy            	[動]使滿意                            
+794.saucer              	[名]淺碟                              
+795.scarf              	[名]圍巾                              
+796.scene              	[名]景色;場面                          
+797.scenery            	[名]風景                              
+798.scientist          	[名]科學家                            
+799.score              	[動]得分;[名]得分;二十;刻痕;樂譜      
+800.seafood            	[名]海產食品                          
+801.search              	[動]搜尋;搜查                          
+802.secondary            	[形]第二的;次要的                      
+803.secret              	[名]秘密                              
+804.section            	[名]節;斷面                            
+805.seek                	[動]尋覓                              
+806.seem                	[動]似乎是                            
+807.select              	[動]挑選                              
+808.selfish            	[形]自私的                            
+809.semester            	[名]學期                              
+810.sense              	[名]感官;官能                          
+811.servant            	[名]雇工                              
+812.serve              	[動]服務                              
+813.service            	[名]服務                              
+814.sheet              	[名]一張(紙);床單                      
+815.shelf              	[名]架子                              
+816.shoot              	[動]注射;射擊;拍攝                    
+817.shore              	[名]岸邊                              
+818.shower              	[動]傾注;洗淋浴;[名]陣雨;淋浴          
+819.shrimp              	[名]蝦子                              
+820.shut                	[動]關閉                              
+821.silence            	[名]寂靜                              
+822.silent              	[形]寂靜的                            
+823.silly              	[形]傻的;無聊的                        
+824.silver              	[形]銀的;銀白的;[名]銀                
+825.similar            	[形]相似的                            
+826.sincere            	[形]誠懇的                            
+827.single              	[形]單一的;獨身的;[名]單的;一壘安打    
+828.sink                	[動]沉下;陷於;[名]洗物槽              
+829.ski                	[動]滑雪;[名]滑雪屐                    
+830.skill              	[名]技能                              
+831.skillful            	[形]有技術的                          
+832.skin                	[名]皮膚                              
+833.skinny              	[形]很瘦的                            
+834.sleepy              	[形]想睡的                            
+835.slender            	[形]纖細的                            
+836.slice              	[動]切成薄片;[名]薄片                  
+837.slippers            	[名]拖鞋                              
+838.snail              	[名]蝸牛                              
+839.sneakers            	[名]球鞋                              
+840.sneaky              	[形]鬼鬼祟祟的                        
+841.soap                	[名]肥皂                              
+842.social              	[形]社會的;交際的                      
+843.society            	[名]社會                              
+844.soda                	[名]蘇打;汽水                          
+845.soft drink          	[名]冷飲                              
+846.softball            	[名]壘球                              
+847.solve              	[動]解決                              
+848.soul                	[名]靈魂                                
+849.sour                	[形]酸的                              
+850.soy sauce          	[名]醬油                              
+851.speaker            	[名]演講者;揚聲器                      
+852.speech              	[名]言論;演講                          
+853.speed              	[名]速度                              
+854.spirit              	[名]精神                              
+855.spot                	[動]沾污;察出;[名]斑點;場所            
+856.spread              	[動]展開                              
+857.state                	[動]陳述;[名]狀態;州                  
+858.stationery          	[名]文具                              
+859.steal              	[動]偷竊                              
+860.steam              	[動]蒸;[名]蒸氣                        
+861.step                	[名]步;臺階                            
+862.stingy              	[形]小氣的                            
+863.stomachache        	[名]胃痛                              
+864.stone              	[名]石頭                              
+865.storm              	[動]猛攻;[名]暴風雨                    
+866.stove              	[名]爐灶                              
+867.stream              	[動]流;蜂擁而進;[名]溪流              
+868.strike              	[動]打擊;(鐘)敲響;[名]攻擊;罷工        
+869.style              	[名]時尚;風格;文體                    
+870.subway              	[名]地鐵                              
+871.succeed            	[動]成功                              
+872.success            	[名]成功                              
+873.such                	[形]如此的                            
+874.suggest            	[動]建議                              
+875.suit                	[名]一套衣服;訴訟                      
+876.super              	[形]超級的                            
+877.supper              	[名]晚餐                              
+878.support            	[動]支持;[名]支持                      
+879.survive            	[動]在...之後仍然活著                  
+880.swallow            	[動]吞嚥;[名]吞嚥;燕子                
+881.swan                	[名]天鵝                              
+882.sweep              	[動]掃;[名]掃除                        
+883.swimsuit            	[名]泳衣                              
+884.symbol              	[名]符號;象徵                          
+885.system              	[名]系統                              
+886.table tennis        	[名]乒乓球                            
+887.talent              	[名]天才                              
+888.talkative          	[形]好說話的                          
+889.tangerine          	[名]橘子                              
+890.tank                	[名]槽;坦克                            
+891.teapot              	[名]茶壺                              
+892.tear                	[動]撕;[名]眼淚                        
+893.temperature        	[名]溫度                              
+894.tent                	[名]帳篷                              
+895.term                	[名]術語;學期                          
+896.terrific            	[形]非常好的;可怕的                    
+897.textbook            	[名]教科書                            
+898.Thanksgiving        	[名]感恩節                            
+899.therefore          	[副]因此                              
+900.thief              	[名]小偷                              
+901.through            	[介]經過                              
+902.thumb              	[名]拇指                              
+903.thunder            	[名]雷                                  
+904.tiny                	[形]微小的                            
+905.tip                	[動]給小費;使傾斜;[名]尖端;小費        
+906.title              	[名]標題;頭銜                          
+907.tofu                	[名]豆腐                              
+908.toilet              	[名]馬桶                              
+909.tongue              	[名]舌頭                              
+910.toothache          	[名]牙痛                              
+911.toothbrush          	[名]牙刷                              
+912.topic              	[名]論題;話題                          
+913.toward              	[介]向;對                              
+914.tower              	[名]塔                                
+915.trace              	[動]追蹤;描繪;[名]蹤跡                
+916.trade              	[名]貿易                              
+917.tradition          	[名]傳統                              
+918.traditional        	[形]傳統的                            
+919.trap                	[動]設陷阱;[名]陷阱;圈套              
+920.travel              	[動]旅行;[名]旅行                      
+921.treasure            	[動]珍愛;[名]財寶                      
+922.triangle            	[名]三角形                            
+923.trousers            	[名]長褲                              
+924.trumpet            	[動]吹喇叭;[名]小喇叭                  
+925.trust              	[動]信任                              
+926.truth              	[名]事實;真相                          
+927.tube                	[名]管子                              
+928.tunnel              	[名]隧道                              
+929.ugly                	[形]醜的                              
+930.underline          	[動]劃線於...之下;強調;[名]底線        
+931.underpass          	[名]地下通道                          
+932.underwear          	[名]內衣                              
+933.unique              	[形]獨特的                            
+934.universe            	[名]宇宙                              
+935.university          	[名]大學                              
+936.upper              	[形]較高的                            
+937.upstairs            	[形]樓上的;[副]樓上地;[名]樓上        
+938.usual              	[形]例常的                            
+939.Valentine          	[名]情人節                            
+940.valley              	[名]山谷                              
+941.valuable            	[形]有價值的                          
+942.value              	[名]價值                              
+943.vendor              	[名]小販                              
+944.victory            	[名]勝利                              
+945.village            	[名]村落                              
+946.visitor            	[名]訪客                              
+947.vocabulary          	[名]字彙                              
+948.volleyball          	[名]排球                              
+949.vote                	[動]投票                              
+950.waist                	[名]腰                                
+951.Walkman            	[名]隨身聽                            
+952.war                	[名]戰爭                              
+953.waste              	[動]浪費;[名]浪費                      
+954.waterfall          	[名]瀑布                              
+955.weekday            	[名]工作日                            
+956.weight              	[名]重量                              
+957.wheel              	[名]輪子                              
+958.while              	[連]當...的時候;[名]一會兒            
+959.whole              	[形]完整的                            
+960.wide                	[形]寬的                              
+961.wild                	[形]野生的;無法無天的                  
+962.wing                	[名]翅膀                                
+963.winner              	[名]贏家                              
+964.wolf                	[名]狼                                
+965.women's room        	[名]女廁所                            
+966.wood                	[名]木材                              
+967.worm                	[名]蠕蟲                              
+968.wound              	[動]傷害;[名]傷口                      
+969.wrist              	[名]手腕                              
+970.yell                	[動]吼叫                              
+971.youth                	[名]青少年;青少年時代
