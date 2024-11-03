@@ -31,46 +31,46 @@ def Initialize() -> str:
 # Start guessing
 def StartGuessing(word: str, meaning: str, player_name: str) -> None:
     lives = 10
-    guessed_letters = []
     score = 0
-    word_length = len(word)
-    display_format = "_ " * word_length
+    
+    while True:  # Main game loop
+        guessed_letters = []  # Reset guessed letters at the start of each round
+        word_length = len(word)
+        display_format = "_ " * word_length
 
-    print(f"The word you are guessing is: {display_format.strip()}")
-    print(f"This word contains {word_length} letters.")
+        print(f"The word you are guessing is: {display_format.strip()}")
+        print(f"This word contains {word_length} letters.")
 
-    while lives > 0:
-        guess = input("Enter a letter: ").lower()
-        if guess in guessed_letters:
-            print("You already guessed that letter.")
-            continue
-        guessed_letters.append(guess)
+        while lives > 0:  # Round loop
+            guess = input("Enter a letter: ").lower()
+            if guess in guessed_letters:
+                print("You already guessed that letter.")
+                continue
+            guessed_letters.append(guess)
 
-        if guess in word:
-            print("Correct guess!")
-        else:
-            lives -= 1
-            print(f"Wrong guess! Lives left: {lives}")
+            if guess in word:
+                print("Correct guess!")
+            else:
+                lives -= 1
+                print(f"Wrong guess! Lives left: {lives}")
 
-        current_display = ''.join(letter if letter in guessed_letters else '_' for letter in word)
-        print(f"Current word: {current_display}")
+            current_display = ''.join(letter if letter in guessed_letters else '_' for letter in word)
+            print(f"Current word: {current_display}")
 
-        if '_' not in current_display:
-            print(f"You finished the word: {word}")
-            print(f"Meaning: {meaning}")
-            score += 1
-            lives = 10
-            guessed_letters = []
-            print(f"Score: {score}")
-            word, meaning = ReadQuestion()
-            display_format = "_ " * len(word)
-            print(f"The word you are guessing is: {display_format.strip()}")
-            print(f"This word contains {len(word)} letters.")
+            if '_' not in current_display:
+                print(f"You finished the word: {word}")
+                print(f"Meaning: {meaning}")
+                score += 1
+                lives = 10
+                print(f"Score: {score}")
+                word, meaning = ReadQuestion()
+                break  # Break the inner loop to start a new round
 
-        if lives <= 0:
-            print(f"You died! The correct word was: {word}")
-            print(f"Meaning: {meaning}")
-            Died(score)
+            if lives <= 0:
+                print(f"You died! The correct word was: {word}")
+                print(f"Meaning: {meaning}")
+                Died(score)
+                return
 
 # Died 
 def Died(score: int) -> None:
