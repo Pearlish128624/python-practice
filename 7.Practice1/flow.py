@@ -24,7 +24,7 @@ def ReadQuestion() -> tuple:
 # Initialize 
   # You can guess 10 times
   # Enter player's name
-def Initialize() -> str:
+def player_name() -> str:
     player_name = input("Enter your name: ")
     return player_name
 
@@ -34,7 +34,8 @@ def StartGuessing(word: str, meaning: str, player_name: str) -> None:
     score = 0
     
     while True:  # Main game loop
-        guessed_letters = []  # Reset guessed letters at the start of each round
+        guessed_letters = []
+        wrong_letters = []
         word_length = len(word)
         display_format = "_ " * word_length
 
@@ -42,6 +43,10 @@ def StartGuessing(word: str, meaning: str, player_name: str) -> None:
         print(f"This word contains {word_length} letters.")
 
         while lives > 0:  # Round loop
+            print("\n" + "-" * 40)  # Divider line
+            if wrong_letters:
+                print(f"Wrong letters guessed: {', '.join(wrong_letters)}")
+                
             guess = input("Enter a letter: ").lower()
             if guess in guessed_letters:
                 print("You already guessed that letter.")
@@ -52,6 +57,7 @@ def StartGuessing(word: str, meaning: str, player_name: str) -> None:
                 print("Correct guess!")
             else:
                 lives -= 1
+                wrong_letters.append(guess)
                 print(f"Wrong guess! Lives left: {lives}")
 
             current_display = ''.join(letter if letter in guessed_letters else '_' for letter in word)
@@ -59,7 +65,7 @@ def StartGuessing(word: str, meaning: str, player_name: str) -> None:
 
             if '_' not in current_display:
                 print(f"You finished the word: {word}")
-                print(f"Meaning: {meaning}")
+                print(f"The meaning of the word is: {meaning}")
                 score += 1
                 lives = 10
                 print(f"Score: {score}")
@@ -68,24 +74,22 @@ def StartGuessing(word: str, meaning: str, player_name: str) -> None:
 
             if lives <= 0:
                 print(f"You died! The correct word was: {word}")
-                print(f"Meaning: {meaning}")
+                print(f"The meaning of the word is: {meaning}")
                 Died(score)
                 return
 
 # Died 
 def Died(score: int) -> None:
-    print(f"You died! Your score was: {score}")
-    GameOver(score)
+    GameOver(score)  # Just call GameOver directly
 
 # Game over (record score)
 def GameOver(score: int) -> None:
-    print(f"Game over! Your final score is: {score}")
+    print(f"Game Over! Your final score is: {score}")
     # Here you can add logic to record the highest score for each player, rank players, etc.
 
 # Main game loop
 if __name__ == "__main__":
     print("Welcome to the Hangman Game!")
-    player_name = Initialize()
+    player_name = player_name()
     word, meaning = ReadQuestion()  # Get the first word and its meaning
     StartGuessing(word, meaning, player_name)
-    
