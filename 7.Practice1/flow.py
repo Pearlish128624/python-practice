@@ -14,10 +14,7 @@ def ReadQuestion():
     try:
         # Get the current script's directory
         current_dir = os.path.dirname(os.path.abspath(__file__))
-        # Construct the correct path to vocabulary.csv in the source folder
         vocabulary_path = os.path.join(current_dir, 'source', 'vocabulary.csv')
-        
-        print(f"Looking for vocabulary file at: {vocabulary_path}")  # Debug print
         
         with open(vocabulary_path, 'r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
@@ -94,6 +91,11 @@ def StartGuessing(word: str, meaning: str, player_name: str) -> None:
                 lives = 10
                 print(f"Score: {score}")
                 word, meaning = ReadQuestion()
+                print(f"\nScore: {score}")
+                print("\n" + "="*50 + "\n")  # Add a separator line
+                print("New Round Starting!")
+                print(f"The word you are guessing is: {display_format.strip()}")
+                print(f"This word contains {word_length} letters.")
                 break  # Break the inner loop to start a new round
 
             if lives <= 0:
