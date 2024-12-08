@@ -1,25 +1,41 @@
 # Game start
 import random
-# Read quesiton (1000 words)
-# Choose 1 of them, and get it's length
-# EX. cat -> _ _ _
-def ReadQuestion() -> tuple:
-    # Read the file from the specified path
-    file_path = r"C:\Users\sunni\OneDrive1\OneDrive\Python\240701\python-practice\7.Practice1\source\1000.txt"
-    
-    with open(file_path, 'r', encoding='utf-8') as file:
-        words = file.readlines()  # Read all lines from the file
+import csv
+import os
 
-    # Pick one word randomly
-    chosen_line = random.choice(words).strip()  # Select a random line
-    parts = chosen_line.split()  # Split by space
-    
-    # Extract word and meaning
-    first_part = parts[0].split('.')  # Split the "487.flu" into ["487", "flu"]
-    word = first_part[1]  # Get the word after the number
-    meaning = ' '.join(parts[1:])  # Get everything after the word
-    
-    return word, meaning
+def get_project_root():
+    """Get the project root directory"""
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(current_dir)
+    return project_root
+
+def ReadQuestion():
+    """Read vocabulary from CSV file and return a random word and its meaning"""
+    try:
+        # Get the current script's directory
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        # Construct the correct path to vocabulary.csv in the source folder
+        vocabulary_path = os.path.join(current_dir, 'source', 'vocabulary.csv')
+        
+        print(f"Looking for vocabulary file at: {vocabulary_path}")  # Debug print
+        
+        with open(vocabulary_path, 'r', encoding='utf-8') as file:
+            reader = csv.DictReader(file)
+            vocabulary_list = list(reader)
+            
+            if not vocabulary_list:
+                print("Error: Vocabulary file is empty")
+                return None, None
+                
+            selected = random.choice(vocabulary_list)
+            return selected['word'], selected['meaning']
+            
+    except FileNotFoundError:
+        print(f"Error: Could not find vocabulary file at: {vocabulary_path}")
+        return None, None
+    except Exception as e:
+        print(f"Error reading vocabulary file: {str(e)}")
+        return None, None
 
 # Initialize 
   # You can guess 10 times
@@ -30,6 +46,7 @@ def player_name() -> str:
 
 # Start guessing
 def StartGuessing(word: str, meaning: str, player_name: str) -> None:
+    """Main game logic"""
     lives = 10
     score = 0
     
@@ -46,8 +63,15 @@ def StartGuessing(word: str, meaning: str, player_name: str) -> None:
             print("\n" + "-" * 40)  # Divider line
             if wrong_letters:
                 print(f"Wrong letters guessed: {', '.join(wrong_letters)}")
-                
-            guess = input("Enter a letter: ").lower()
+            
+            # Input validation
+            guess = ""
+            while len(guess) != 1:
+                guess = input("Enter a letter: ").lower()
+                if guess == "exit":
+                    GameOver(score)
+                    return
+            
             if guess in guessed_letters:
                 print("You already guessed that letter.")
                 continue
