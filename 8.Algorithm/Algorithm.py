@@ -24,6 +24,29 @@ def calculate_weighted_average(scores: List[Union[float, None]]) -> float:
         sorted_scores = sorted(valid_scores, reverse=True)
         return round((sorted_scores[0] * 3 + sorted_scores[1] + sorted_scores[2]) / 5, 1)
 
+def calculate_weighted_average_2(scores: List[Union[float, None]]) -> float:
+    # 將None值過濾掉，只保留實際的分数
+    valid_scores = [score for score in scores if score is not None]
+        
+    if not valid_scores:
+        return 0
+    
+    sorted_scores = sorted(valid_scores, reverse=True)
+
+    # 計算學生參加的課程數量
+    num_classes = len(valid_scores)
+    weights = [
+        [1], [2, 1], [3, 1, 1]
+    ]
+    divides = [1, 3, 5]
+    
+    sum = 0
+    for i, score in enumerate(sorted_scores):
+        sum += score * weights[num_classes-1][i]
+    avg = sum/divides[num_classes-1]
+
+    return avg
+
 def process_scores(scores_file: str) -> None:
     students: Dict[str, float] = {}
     
@@ -37,7 +60,8 @@ def process_scores(scores_file: str) -> None:
                 # 將分數轉換為數字，'X'轉換為None
                 scores = [float(score.strip()) if score.strip() != 'X' else None 
                          for score in scores_str.split(',')]
-                avg = calculate_weighted_average(scores)
+#                avg = calculate_weighted_average(scores)
+                avg = calculate_weighted_average_2(scores)
                 students[name] = avg
             except Exception as e:
                 print(f"處理行 '{line.strip()}' 時發生錯誤: {e}")
@@ -50,7 +74,7 @@ def process_scores(scores_file: str) -> None:
     # 將排名寫入ranking.txt
     with open('ranking.txt', 'w', encoding='utf-8') as file:
         for i, (name, avg) in enumerate(ranked_students, 1):
-            file.write(f"{i}. [{name}, {int(avg) if avg.is_integer() else avg}]\n")
+            file.write(f"{i}. [{name}, {int(round(avg,0))}]\n")
 
 if __name__ == "__main__":
     process_scores('scores.txt')
