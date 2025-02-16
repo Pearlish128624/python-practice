@@ -1,0 +1,9 @@
+訂單匯總:
+--------------------------------------------------
+Clements: 6A 3B 2F $1036
+Emily: 2C 1D 3F $490
+Gray: 6A 1B 2C 1D 3E 1F $1030
+Jefferson: 3A 1B 3D 1F $784
+Joyce: 5A 3C 2D 3F $800
+Robin: 5A 2B 1C 2D 1E 1F $1135
+Taylor: 1A 4C 2D 3F $850

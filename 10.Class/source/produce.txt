@@ -1,0 +1,6 @@
+A,pen,10 
+B,purse,350
+C,keychain,100
+D,fork,150
+E,toothbrush,80
+F,candy,50

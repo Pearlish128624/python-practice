@@ -1,0 +1,8 @@
+1. For a single bill over $500, take 85% cost
+2. Every purse (product B), will give a pen (product A) for free
+3. Totally take 1 fork (product D) and 1 candy (product F) together, 1 tooth brush (product E) will be $70
+4. Two key chain (product C), take 95% for this single bill
+5. System should provide the cheapest price for customer
+
+
+
